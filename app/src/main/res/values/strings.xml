@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">20230302progressbar</string>
+    <string name="circle_progressbar_small">circle_mini</string>
+    <string name="circle_progressbar_middle">circle_middle</string>
+    <string name="circle_progressbar_max">circle_max</string>
+    <string name="horizontal_progressbar_onelevel">circle_max_first</string>
+    <string name="horizontal_progressbar_twolevel">circle_max_second</string>
+    <string name="increase_progress">increase_progress</string>
+    <string name="decrease_progress">decrease_progress</string>
+</resources>
